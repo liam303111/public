@@ -6,3 +6,4 @@ cp /content/drive/My\ Drive/colab/* /content/;\
 unzip /content/google-chrome.zip -d /root/.config;\
 wget -O /usr/share/applications/google-chrome.desktop https://github.com/liam303111/public/raw/main/google-chrome.desktop;\
 sudo apt-get purge firefox;\
+xdg-settings set default-web-browser chromium-browser.desktop;\
