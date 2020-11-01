@@ -1,0 +1,10 @@
+---
+title: Masteros2
+timezone: Asia/Bangkok
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
